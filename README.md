@@ -1,4 +1,4 @@
-# Hugo-Gopher
+# Hugo gopher
 
 <img src="/medrawing.jpg" style="width: 200px;" />
 
